@@ -1,0 +1,14 @@
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\bin\Debug\ComponentTutorial.dll.config
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\bin\Debug\ComponentTutorial.dll
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\bin\Debug\ComponentTutorial.pdb
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\bin\Debug\LiveSplit.Core.dll
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\bin\Debug\UpdateManager.dll
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\bin\Debug\WinFormsColor.dll
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.csprojAssemblyReference.cache
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.Properties.Resources.resources
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\LiveSplit.UI.Components.Settings.resources
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.csproj.GenerateResource.cache
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.csproj.CoreCompileInputs.cache
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.csproj.CopyComplete
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.dll
+C:\Users\dsiglin\Documents\ComponentTutorial\ComponentTutorial\obj\Debug\ComponentTutorial.pdb
